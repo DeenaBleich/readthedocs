@@ -2,14 +2,17 @@
 Working With Cohorts
 *******************
 
-Cohorts are an way of creating custom groupings of the samples and/or cases that you are 
+Cohorts are a way of creating custom groupings of the samples and/or cases that you are 
 interested in analyzing further.  You may frequently re-use a cohort in multiple analyses.  Creating a "saved cohort" allows you to do this.  If you have any existing saved cohorts, they will appear here for you to view, edit and share (see below for details).
 
 Creating and saving a cohort
 ############################
 
 To create a cohort from Your Dashboard, if you do not have a cohort created, click on the "Filter" or the "Barcodes" links in the 
-"Saved Cohorts" panel at the bottom of the page. The Filter link will take you to the cohort creation page with all filters explained below.  The Barcodes link will send you to a page where you can uplaod samples/cases barcodes and create a cohort from them. Currently you can only upload from three programs TCGA, CCLE, and TARGET. 
+"Saved Cohorts" panel at the bottom of the page. 
+
+* The Filter link will take you to the cohort creation page with all filters explained below.
+* The Barcodes link will send you to a page where you can uplaod samples/cases barcodes and create a cohort from them. Currently you can only upload from three programs: TCGA, CCLE, and TARGET. 
 
 If you already have saved cohorts, they will be listed in the "Saved Cohorts" panel.  Click on the "Saved Cohorts" link in that panel and this will take you to a page that displays the details of your saved cohorts.  Alternatively, to go directly to a given cohort, click on its name and you will be taken to the cohort details page of that cohort.
 
